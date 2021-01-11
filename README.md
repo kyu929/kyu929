@@ -1,6 +1,3 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=kyu929&&style=flat-square" align="right" />
-</div>  
 
 ### Hi there 👋
 
