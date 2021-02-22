@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu929&hide=tex&layout=compact" align="left" style="width: 100%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu929&hide_border=true&hide=tex&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
