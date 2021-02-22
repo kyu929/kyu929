@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 </td><td valign="top" width="50%">
 
-#<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu929&hide_border=true&layout=compact" align="left" style="width: 100%" />
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kyu929)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyu929&hide=tex&layout=compact" align="left" style="width: 100%" />
+
 </td></tr></table>  
 
 <br/>  
